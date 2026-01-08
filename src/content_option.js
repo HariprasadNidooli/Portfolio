@@ -1,11 +1,11 @@
-const logotext = "JOHN";
+const logotext = "Hari";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Hariprasad",
+    description: "I’m Hariprasad data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Hariprasad",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -36,21 +36,14 @@ const worktimeline = [{
     },
 ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
+const skills = [
     {
         name: "Javascript",
         value: 80,
     },
     {
         name: "React",
-        value: 60,
+        value: 90,
     },
     {
         name: "Jquery",
@@ -136,8 +129,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "hpnidooli@gmail.com",
+    YOUR_FONE: "+91 6282087456",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
